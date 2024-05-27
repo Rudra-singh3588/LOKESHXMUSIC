@@ -1,12 +1,12 @@
 {
-    "name": "ʟᴏᴋᴇꜱʜ ᴍᴜꜱɪᴄ",
+    "name": "𝚂𝚄𝙿𝚁𝙰 ✗ 𝙼𝚄𝚂𝙸𝙲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b5a457725d59cc7765dde.jpg",
+    "logo": "https://telegra.ph/file/474f04e591cd335ba872c.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "LOKESHXMUSIC",
+    "𝚂𝚄𝙿𝚁𝙰 ✗ 𝙼𝚄𝚂𝙸𝙲",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
